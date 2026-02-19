@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChatHistoryState">
+    <option name="chatSessions" value="{&quot;6532e9b6-bcd3-4023-a03d-6bc51e63a5c9&quot;:{&quot;id&quot;:&quot;6532e9b6-bcd3-4023-a03d-6bc51e63a5c9&quot;,&quot;name&quot;:&quot;Error Checking&quot;,&quot;timestamp&quot;:1769536007685,&quot;messages&quot;:[{&quot;role&quot;:&quot;user&quot;,&quot;content&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;text&quot;:&quot;\u003cuser_query\u003e\ncheck errors\n\u003c/user_query\u003e&quot;}]},{&quot;role&quot;:&quot;assistant&quot;,&quot;content&quot;:[]}]}}" />
+  </component>
+</project>

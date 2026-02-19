@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stock Tracker</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_news">News</string>
+    <string name="nav_alerts">Alerts</string>
+</resources>
